@@ -16,4 +16,6 @@ from one state to the next.
 
 ________________________________________________
 This project was done in 2018 at the University of Aberdeen
+Refer to the pdf upload for the full project
+
 Project Supervisor: 
